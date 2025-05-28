@@ -35,6 +35,7 @@ notepad $PROFILE
 
 COPIAR ESTE CODIGO EN PROFILE Y GUARDAR:
 
+```bash
 function runTest {
     param([string]$pattern)
 
@@ -51,12 +52,11 @@ function runTest {
     allure serve target/allure-results
 }
 
-### Ejecutar todos los tests:
+### Ejecución de los tests:
 ```bash
-runTest T01*
+TEST INDIVIDUAL: **runTest T01***
 
-```bash
-runTest T*
+EJECUCIÓN DE TODOS LOS TEST: **runTest T***
 
 
 
