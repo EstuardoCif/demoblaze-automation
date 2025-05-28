@@ -34,6 +34,7 @@ ABRIR PROFILE:
 notepad $PROFILE
 
 COPIAR ESTE CODIGO EN PROFILE Y GUARDAR:
+
 function runTest {
     param([string]$pattern)
 
