@@ -25,13 +25,17 @@ src/
 
 ## Cómo ejecutar
 ### Creación de un PROFILE en powershell:
-ABRIR POWERSHELL
-EJECUTAR:
+#### ABRIR POWERSHELL y EJECUTAR:
+```bash
 Test-Path $PROFILE
-New-Item -Path $PROFILE -ItemType File -Force
 
-ABRIR PROFILE:
+New-Item -Path $PROFILE -ItemType File -Force
+```
+
+#### ABRIR PROFILE:
+```bash
 notepad $PROFILE
+```
 
 COPIAR ESTE CODIGO EN PROFILE Y GUARDAR:
 
@@ -54,11 +58,15 @@ function runTest {
 ```
 
 ### Ejecución de los tests:
+
+#### TEST INDIVIDUAL
 ```bash
-TEST INDIVIDUAL: **runTest T01***
-
-EJECUCIÓN DE TODOS LOS TEST: **runTest T***
-
+runTest T01*
+```
+#### EJECUCIÓN DE TODOS LOS TEST
+```bash
+runTest T*
+```
 
 
 
