@@ -1,0 +1,55 @@
+{
+  "uuid": "a231f4f5-e7f3-42b2-ac73-806de1a0849b",
+  "historyId": "4981f80d0973b6ba11efe334740580f",
+  "testCaseId": "[engine:junit-jupiter]/[class:tests.T05_CreateExistingAccount]/[method:crearCuentaExistente()]",
+  "testCaseName": "crearCuentaExistente()",
+  "fullName": "tests.T05_CreateExistingAccount.crearCuentaExistente",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T05_CreateExistingAccount]/[method:crearCuentaExistente()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "17944@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T05_CreateExistingAccount"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T05_CreateExistingAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "crearCuentaExistente"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T05_CreateExistingAccount"
+    }
+  ],
+  "links": [],
+  "name": "crearCuentaExistente()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1748303386261,
+  "stop": 1748303388547
+}

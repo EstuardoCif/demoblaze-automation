@@ -1,0 +1,11 @@
+{
+  "uuid": "569ce8cf-ab86-45c9-979f-62ac745c8d1e",
+  "name": "comprarTelefono()",
+  "children": [
+    "8c5bc528-8f4b-43bb-a24e-66570a9b1360"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748302858851,
+  "stop": 1748302864030
+}

@@ -1,0 +1,73 @@
+{
+  "uid": "9d8bc1e761caaa9",
+  "name": "comprarLaptop()",
+  "fullName": "tests.T02_PurchaseLaptopWithoutSession.comprarLaptop",
+  "historyId": "470a5cb96d8183d9d2ed6197388190db",
+  "time": {
+    "start": 1748303598450,
+    "stop": 1748303603398,
+    "duration": 4948
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T02_PurchaseLaptopWithoutSession]/[method:comprarLaptop()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "8532@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T02_PurchaseLaptopWithoutSession"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T02_PurchaseLaptopWithoutSession"
+    },
+    {
+      "name": "testMethod",
+      "value": "comprarLaptop"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T02_PurchaseLaptopWithoutSession"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "9d8bc1e761caaa9.json",
+  "parameterValues": []
+}

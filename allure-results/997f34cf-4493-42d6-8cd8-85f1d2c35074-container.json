@@ -1,0 +1,11 @@
+{
+  "uuid": "997f34cf-4493-42d6-8cd8-85f1d2c35074",
+  "name": "T02_PurchaseLaptopWithoutSession",
+  "children": [
+    "d4fba929-5518-4abf-b58a-680fbb35199d"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748303895516,
+  "stop": 1748303903110
+}

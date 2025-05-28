@@ -1,0 +1,11 @@
+{
+  "uuid": "89036499-36dd-4479-b092-a19b3907c426",
+  "name": "T01_PurchasePhoneWithoutSession",
+  "children": [
+    "d501fbce-b38a-4708-90b7-4b6f5cf18a06"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748305315186,
+  "stop": 1748305322258
+}

@@ -1,0 +1,55 @@
+{
+  "uuid": "63dd91ba-47b2-49cb-9ee1-c167e09f0955",
+  "historyId": "8115465f2f89cf991bf364c8589ef9d",
+  "testCaseId": "[engine:junit-jupiter]/[class:tests.T03_BuyBothProductsWithoutSession]/[method:comprarAmbosProductos()]",
+  "testCaseName": "comprarAmbosProductos()",
+  "fullName": "tests.T03_BuyBothProductsWithoutSession.comprarAmbosProductos",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T03_BuyBothProductsWithoutSession]/[method:comprarAmbosProductos()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "11960@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T03_BuyBothProductsWithoutSession"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T03_BuyBothProductsWithoutSession"
+    },
+    {
+      "name": "testMethod",
+      "value": "comprarAmbosProductos"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T03_BuyBothProductsWithoutSession"
+    }
+  ],
+  "links": [],
+  "name": "comprarAmbosProductos()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1748305167709,
+  "stop": 1748305177224
+}

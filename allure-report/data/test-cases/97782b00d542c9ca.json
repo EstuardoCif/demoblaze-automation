@@ -1,0 +1,73 @@
+{
+  "uid": "97782b00d542c9ca",
+  "name": "crearCuentaExistente()",
+  "fullName": "tests.T05_CreateExistingAccount.crearCuentaExistente",
+  "historyId": "4981f80d0973b6ba11efe334740580f",
+  "time": {
+    "start": 1748305576341,
+    "stop": 1748305578508,
+    "duration": 2167
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T05_CreateExistingAccount]/[method:crearCuentaExistente()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "4008@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T05_CreateExistingAccount"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T05_CreateExistingAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "crearCuentaExistente"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T05_CreateExistingAccount"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "97782b00d542c9ca.json",
+  "parameterValues": []
+}

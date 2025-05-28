@@ -1,0 +1,55 @@
+{
+  "uuid": "05955b12-0981-4802-ac45-dc328552b96e",
+  "historyId": "12df15c2704b36522853e3996c9af828",
+  "testCaseId": "[engine:junit-jupiter]/[class:tests.T04_CreateSuccessfulAccount]/[method:crearCuentaExitosa()]",
+  "testCaseName": "crearCuentaExitosa()",
+  "fullName": "tests.T04_CreateSuccessfulAccount.crearCuentaExitosa",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T04_CreateSuccessfulAccount]/[method:crearCuentaExitosa()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "17944@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T04_CreateSuccessfulAccount"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T04_CreateSuccessfulAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "crearCuentaExitosa"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T04_CreateSuccessfulAccount"
+    }
+  ],
+  "links": [],
+  "name": "crearCuentaExitosa()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1748303382482,
+  "stop": 1748303385174
+}

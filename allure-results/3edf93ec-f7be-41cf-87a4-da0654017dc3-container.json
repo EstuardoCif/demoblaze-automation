@@ -1,0 +1,11 @@
+{
+  "uuid": "3edf93ec-f7be-41cf-87a4-da0654017dc3",
+  "name": "loginExitoso()",
+  "children": [
+    "b37240fc-46ec-4c99-b6d6-211a8c08796c"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748307242122,
+  "stop": 1748307245181
+}

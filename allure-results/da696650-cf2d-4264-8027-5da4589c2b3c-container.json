@@ -1,0 +1,11 @@
+{
+  "uuid": "da696650-cf2d-4264-8027-5da4589c2b3c",
+  "name": "comprarLaptop()",
+  "children": [
+    "041e2da4-99c0-4098-99d8-e6a9f937c9ef"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748304068536,
+  "stop": 1748304073396
+}

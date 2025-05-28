@@ -1,0 +1,73 @@
+{
+  "uid": "cbb1fab8fb27af40",
+  "name": "loginExitoso()",
+  "fullName": "tests.T06_LoginSuccessful.loginExitoso",
+  "historyId": "f51afe49bf6f5076ee67aab852465557",
+  "time": {
+    "start": 1748303922009,
+    "stop": 1748303924206,
+    "duration": 2197
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T06_LoginSuccessful]/[method:loginExitoso()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "16456@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T06_LoginSuccessful"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T06_LoginSuccessful"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginExitoso"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T06_LoginSuccessful"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "cbb1fab8fb27af40.json",
+  "parameterValues": []
+}

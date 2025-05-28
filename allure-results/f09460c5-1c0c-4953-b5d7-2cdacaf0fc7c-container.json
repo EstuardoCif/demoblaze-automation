@@ -1,0 +1,11 @@
+{
+  "uuid": "f09460c5-1c0c-4953-b5d7-2cdacaf0fc7c",
+  "name": "T08_PurchaseMonitorWithSession",
+  "children": [
+    "69420422-4e55-49ba-8914-9a93affc75e8"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748305497332,
+  "stop": 1748305506283
+}

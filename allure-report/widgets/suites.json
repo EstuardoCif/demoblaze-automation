@@ -1,0 +1,101 @@
+{
+  "total": 8,
+  "items": [
+    {
+      "uid": "377c73c510841f3f9840665fefb5f221",
+      "name": "tests.T01_PurchasePhoneWithoutSession",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "27959dba3240062c9f0da1d65fba9ccd",
+      "name": "tests.T02_PurchaseLaptopWithoutSession",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "5c626bbc6010c880d2189855ad746675",
+      "name": "tests.T03_BuyBothProductsWithoutSession",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "04155d88310a54d618b7e0a53ff768db",
+      "name": "tests.T04_CreateSuccessfulAccount",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "b0a8e41d811f0f0135ba6b8151693071",
+      "name": "tests.T05_CreateExistingAccount",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "fb210930ca822b95861d60471343714f",
+      "name": "tests.T08_PurchaseMonitorWithSession",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "91a72c13742f3e48535bdb3703002b36",
+      "name": "tests.T07_LoginFailed",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "ce02f56f2e7d9c8b9cb35d67cf576739",
+      "name": "tests.T06_LoginSuccessful",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    }
+  ]
+}

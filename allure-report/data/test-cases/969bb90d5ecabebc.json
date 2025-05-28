@@ -1,0 +1,73 @@
+{
+  "uid": "969bb90d5ecabebc",
+  "name": "loginFallido()",
+  "fullName": "tests.T07_LoginFailed.loginFallido",
+  "historyId": "9955ab1c495fd4eeadc7505a2521e56e",
+  "time": {
+    "start": 1748304095862,
+    "stop": 1748304098029,
+    "duration": 2167
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T07_LoginFailed]/[method:loginFallido()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "6748@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T07_LoginFailed"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T07_LoginFailed"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginFallido"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T07_LoginFailed"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "969bb90d5ecabebc.json",
+  "parameterValues": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "f6df1036-6720-4768-a9d6-557c0c085a1e",
+  "name": "crearCuentaExitosa()",
+  "children": [
+    "cf17d105-7d00-4b4f-b7bb-24d6c2f7d129"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748303795179,
+  "stop": 1748303798077
+}

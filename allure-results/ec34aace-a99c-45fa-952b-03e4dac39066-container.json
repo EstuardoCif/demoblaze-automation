@@ -1,0 +1,11 @@
+{
+  "uuid": "ec34aace-a99c-45fa-952b-03e4dac39066",
+  "name": "T03_BuyBothProductsWithoutSession",
+  "children": [
+    "c6b69f3a-c7e3-466a-817b-4e14c93d8cfd"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748303662700,
+  "stop": 1748303670368
+}

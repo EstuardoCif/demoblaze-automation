@@ -1,0 +1,73 @@
+{
+  "uid": "27582009e7e0482",
+  "name": "comprarTelefono()",
+  "fullName": "tests.T01_PurchasePhoneWithoutSession.comprarTelefono",
+  "historyId": "a8cbe08e55733bdd2d31fb1a4732e6a8",
+  "time": {
+    "start": 1748305548995,
+    "stop": 1748305553936,
+    "duration": 4941
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T01_PurchasePhoneWithoutSession]/[method:comprarTelefono()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "4008@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T01_PurchasePhoneWithoutSession"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T01_PurchasePhoneWithoutSession"
+    },
+    {
+      "name": "testMethod",
+      "value": "comprarTelefono"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T01_PurchasePhoneWithoutSession"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "27582009e7e0482.json",
+  "parameterValues": []
+}

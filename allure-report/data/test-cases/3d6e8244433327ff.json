@@ -1,0 +1,73 @@
+{
+  "uid": "3d6e8244433327ff",
+  "name": "compraMonitorSesion()",
+  "fullName": "tests.T08_PurchaseMonitorWithSession.compraMonitorSesion",
+  "historyId": "93640c3b7de5c8cf6a6b392f1e4b452a",
+  "time": {
+    "start": 1748304099180,
+    "stop": 1748304106077,
+    "duration": 6897
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T08_PurchaseMonitorWithSession]/[method:compraMonitorSesion()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "6748@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T08_PurchaseMonitorWithSession"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T08_PurchaseMonitorWithSession"
+    },
+    {
+      "name": "testMethod",
+      "value": "compraMonitorSesion"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T08_PurchaseMonitorWithSession"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "3d6e8244433327ff.json",
+  "parameterValues": []
+}

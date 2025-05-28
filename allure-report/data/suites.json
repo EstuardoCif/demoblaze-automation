@@ -1,0 +1,206 @@
+{
+  "uid": "98d3104e051c652961429bf95fa0b5d6",
+  "name": "suites",
+  "children": [
+    {
+      "name": "tests.T01_PurchasePhoneWithoutSession",
+      "children": [
+        {
+          "name": "comprarTelefono()",
+          "uid": "8aa194fe45df5928",
+          "parentUid": "377c73c510841f3f9840665fefb5f221",
+          "status": "passed",
+          "time": {
+            "start": 1748306557993,
+            "stop": 1748306564318,
+            "duration": 6325
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 16,
+          "retriesStatusChange": true,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "377c73c510841f3f9840665fefb5f221"
+    },
+    {
+      "name": "tests.T02_PurchaseLaptopWithoutSession",
+      "children": [
+        {
+          "name": "comprarLaptop()",
+          "uid": "c2b86fe615835ceb",
+          "parentUid": "27959dba3240062c9f0da1d65fba9ccd",
+          "status": "passed",
+          "time": {
+            "start": 1748306565679,
+            "stop": 1748306572185,
+            "duration": 6506
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 7,
+          "retriesStatusChange": true,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "27959dba3240062c9f0da1d65fba9ccd"
+    },
+    {
+      "name": "tests.T03_BuyBothProductsWithoutSession",
+      "children": [
+        {
+          "name": "comprarAmbosProductos()",
+          "uid": "d1e916a7fdc5d865",
+          "parentUid": "5c626bbc6010c880d2189855ad746675",
+          "status": "passed",
+          "time": {
+            "start": 1748306573444,
+            "stop": 1748306582998,
+            "duration": 9554
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 13,
+          "retriesStatusChange": true,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "5c626bbc6010c880d2189855ad746675"
+    },
+    {
+      "name": "tests.T04_CreateSuccessfulAccount",
+      "children": [
+        {
+          "name": "crearCuentaExitosa()",
+          "uid": "7cdebe0ec7e6545a",
+          "parentUid": "04155d88310a54d618b7e0a53ff768db",
+          "status": "passed",
+          "time": {
+            "start": 1748306584283,
+            "stop": 1748306586880,
+            "duration": 2597
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 7,
+          "retriesStatusChange": false,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "04155d88310a54d618b7e0a53ff768db"
+    },
+    {
+      "name": "tests.T05_CreateExistingAccount",
+      "children": [
+        {
+          "name": "crearCuentaExistente()",
+          "uid": "24c6073c749dca23",
+          "parentUid": "b0a8e41d811f0f0135ba6b8151693071",
+          "status": "passed",
+          "time": {
+            "start": 1748306588104,
+            "stop": 1748306590256,
+            "duration": 2152
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 7,
+          "retriesStatusChange": false,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "b0a8e41d811f0f0135ba6b8151693071"
+    },
+    {
+      "name": "tests.T08_PurchaseMonitorWithSession",
+      "children": [
+        {
+          "name": "compraMonitorSesion()",
+          "uid": "2f67e81cb5d2656d",
+          "parentUid": "fb210930ca822b95861d60471343714f",
+          "status": "passed",
+          "time": {
+            "start": 1748306598463,
+            "stop": 1748306606574,
+            "duration": 8111
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 8,
+          "retriesStatusChange": true,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "fb210930ca822b95861d60471343714f"
+    },
+    {
+      "name": "tests.T07_LoginFailed",
+      "children": [
+        {
+          "name": "loginFallido()",
+          "uid": "bac9aa176cc26619",
+          "parentUid": "91a72c13742f3e48535bdb3703002b36",
+          "status": "passed",
+          "time": {
+            "start": 1748307107009,
+            "stop": 1748307109295,
+            "duration": 2286
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 10,
+          "retriesStatusChange": true,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "91a72c13742f3e48535bdb3703002b36"
+    },
+    {
+      "name": "tests.T06_LoginSuccessful",
+      "children": [
+        {
+          "name": "loginExitoso()",
+          "uid": "5511945adb23ca27",
+          "parentUid": "ce02f56f2e7d9c8b9cb35d67cf576739",
+          "status": "passed",
+          "time": {
+            "start": 1748307120495,
+            "stop": 1748307122781,
+            "duration": 2286
+          },
+          "flaky": false,
+          "newFailed": false,
+          "newPassed": false,
+          "newBroken": false,
+          "retriesCount": 8,
+          "retriesStatusChange": false,
+          "parameters": [],
+          "tags": []
+        }
+      ],
+      "uid": "ce02f56f2e7d9c8b9cb35d67cf576739"
+    }
+  ]
+}

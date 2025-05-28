@@ -1,0 +1,141 @@
+{
+  "uid": "c2b86fe615835ceb",
+  "name": "comprarLaptop()",
+  "fullName": "tests.T02_PurchaseLaptopWithoutSession.comprarLaptop",
+  "historyId": "470a5cb96d8183d9d2ed6197388190db",
+  "time": {
+    "start": 1748306565679,
+    "stop": 1748306572185,
+    "duration": 6506
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 7,
+  "retriesStatusChange": true,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T02_PurchaseLaptopWithoutSession]/[method:comprarLaptop()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "16524@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T02_PurchaseLaptopWithoutSession"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T02_PurchaseLaptopWithoutSession"
+    },
+    {
+      "name": "testMethod",
+      "value": "comprarLaptop"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T02_PurchaseLaptopWithoutSession"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "b26b1752e6a67a8d",
+        "status": "broken",
+        "statusDetails": "unexpected alert open: {Alert text : Please fill out Name and Creditcard.}\n  (Session info: chrome=132.0.6834.160): Please fill out Name and Creditcard.\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [5a4dfb70a8c35a0b6a6cfc6a2dbb6ada, findElement {value=//button[text()='OK'], using=xpath}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56248}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56248/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 5a4dfb70a8c35a0b6a6cfc6a2dbb6ada",
+        "time": {
+          "start": 1748305555304,
+          "stop": 1748305560093,
+          "duration": 4789
+        }
+      },
+      {
+        "uid": "3ed5a846af8ddfeb",
+        "status": "passed",
+        "time": {
+          "start": 1748305351420,
+          "stop": 1748305356280,
+          "duration": 4860
+        }
+      },
+      {
+        "uid": "b8ddfa355c3afd17",
+        "status": "broken",
+        "statusDetails": "stale element reference: stale element not found in the current frame\n  (Session info: chrome=132.0.6834.160)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [219f0ef02e86fe1b8547eb770a1d03d0, clickElement {id=f.1E8F3E9F3D1D87E8E1D45B2FF7E79D8D.d.EE7DCD08368F851CEC4DD2607C988CE7.e.72}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55664/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (219f0ef02e86fe1b8547eb770a1d03d0)] -> link text: Sony vaio i5]\nSession ID: 219f0ef02e86fe1b8547eb770a1d03d0",
+        "time": {
+          "start": 1748305165359,
+          "stop": 1748305166488,
+          "duration": 1129
+        }
+      },
+      {
+        "uid": "591c2cb700be3649",
+        "status": "passed",
+        "time": {
+          "start": 1748304068539,
+          "stop": 1748304073395,
+          "duration": 4856
+        }
+      },
+      {
+        "uid": "e1e4cfa1ad545a87",
+        "status": "passed",
+        "time": {
+          "start": 1748303896559,
+          "stop": 1748303902960,
+          "duration": 6401
+        }
+      },
+      {
+        "uid": "9d8bc1e761caaa9",
+        "status": "passed",
+        "time": {
+          "start": 1748303598450,
+          "stop": 1748303603398,
+          "duration": 4948
+        }
+      },
+      {
+        "uid": "1ec3701e7b037e8d",
+        "status": "passed",
+        "time": {
+          "start": 1748303371128,
+          "stop": 1748303376142,
+          "duration": 5014
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "c2b86fe615835ceb.json",
+  "parameterValues": []
+}

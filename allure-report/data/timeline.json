@@ -1,0 +1,1860 @@
+{
+  "uid": "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name": "timeline",
+  "children": [
+    {
+      "name": "EstuardoRZR",
+      "children": [
+        {
+          "name": "18148@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginExitoso()",
+              "uid": "a4ecbbb550447faa",
+              "parentUid": "0753a0c679e6bc9f8f5a9db52544cf82",
+              "status": "passed",
+              "time": {
+                "start": 1748303580622,
+                "stop": 1748303582990,
+                "duration": 2368
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "0753a0c679e6bc9f8f5a9db52544cf82"
+        },
+        {
+          "name": "17544@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "151ad06b6206d735",
+              "parentUid": "49372d6f8c988b4ca3000bdabb5117b8",
+              "status": "passed",
+              "time": {
+                "start": 1748303562309,
+                "stop": 1748303569313,
+                "duration": 7004
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "49372d6f8c988b4ca3000bdabb5117b8"
+        },
+        {
+          "name": "17944@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "e926a7446223a585",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "broken",
+              "time": {
+                "start": 1748303377323,
+                "stop": 1748303381319,
+                "duration": 3996
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginFallido()",
+              "uid": "76e8c32f78b8e136",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "broken",
+              "time": {
+                "start": 1748303393088,
+                "stop": 1748303394356,
+                "duration": 1268
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarLaptop()",
+              "uid": "1ec3701e7b037e8d",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "passed",
+              "time": {
+                "start": 1748303371128,
+                "stop": 1748303376142,
+                "duration": 5014
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarTelefono()",
+              "uid": "daf9371adbd8c859",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "broken",
+              "time": {
+                "start": 1748303364527,
+                "stop": 1748303369909,
+                "duration": 5382
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "55fb632f4fe9bf3",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "passed",
+              "time": {
+                "start": 1748303395678,
+                "stop": 1748303402112,
+                "duration": 6434
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "695a9edcfe4a1b83",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "passed",
+              "time": {
+                "start": 1748303382482,
+                "stop": 1748303385174,
+                "duration": 2692
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginExitoso()",
+              "uid": "fde3c4f4080a8d10",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "passed",
+              "time": {
+                "start": 1748303389686,
+                "stop": 1748303391980,
+                "duration": 2294
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "93c507e5565e7b9c",
+              "parentUid": "9a2ac89767aff09d517433c34373c839",
+              "status": "passed",
+              "time": {
+                "start": 1748303386261,
+                "stop": 1748303388547,
+                "duration": 2286
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "9a2ac89767aff09d517433c34373c839"
+        },
+        {
+          "name": "11764@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginFallido()",
+              "uid": "d83d9e148b17a59d",
+              "parentUid": "58420c4d4e302e0ee0c9340f5d60c024",
+              "status": "passed",
+              "time": {
+                "start": 1748305452912,
+                "stop": 1748305455220,
+                "duration": 2308
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "58420c4d4e302e0ee0c9340f5d60c024"
+        },
+        {
+          "name": "6748@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "bf3b6f6b54e3321a",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304085159,
+                "stop": 1748304087720,
+                "duration": 2561
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "b182006c96849474",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304074607,
+                "stop": 1748304083962,
+                "duration": 9355
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginExitoso()",
+              "uid": "8b3cd88feda99ab5",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304092356,
+                "stop": 1748304094617,
+                "duration": 2261
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarTelefono()",
+              "uid": "2dcbff01c5fb549e",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304062194,
+                "stop": 1748304067201,
+                "duration": 5007
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginFallido()",
+              "uid": "969bb90d5ecabebc",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304095862,
+                "stop": 1748304098029,
+                "duration": 2167
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "3d6e8244433327ff",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304099180,
+                "stop": 1748304106077,
+                "duration": 6897
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "65f0db07499c70d0",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304088882,
+                "stop": 1748304091104,
+                "duration": 2222
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarLaptop()",
+              "uid": "591c2cb700be3649",
+              "parentUid": "0ae23820b70f1fd6de5998a40e1cfc07",
+              "status": "passed",
+              "time": {
+                "start": 1748304068539,
+                "stop": 1748304073395,
+                "duration": 4856
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "0ae23820b70f1fd6de5998a40e1cfc07"
+        },
+        {
+          "name": "16456@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarLaptop()",
+              "uid": "e1e4cfa1ad545a87",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303896559,
+                "stop": 1748303902960,
+                "duration": 6401
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginFallido()",
+              "uid": "52371e14fcd75978",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303925391,
+                "stop": 1748303927625,
+                "duration": 2234
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarTelefono()",
+              "uid": "d1dbbbc306dc595a",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303890305,
+                "stop": 1748303895240,
+                "duration": 4935
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "91f7d2036e9ecee3",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303904144,
+                "stop": 1748303913706,
+                "duration": 9562
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginExitoso()",
+              "uid": "cbb1fab8fb27af40",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303922009,
+                "stop": 1748303924206,
+                "duration": 2197
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "b98565765eff20f1",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303928733,
+                "stop": 1748303934984,
+                "duration": 6251
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "30d2c797c45e5ba2",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303914893,
+                "stop": 1748303917515,
+                "duration": 2622
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "d3eda518fdca5720",
+              "parentUid": "cf8e255b829e8de8b1f61186d79bfc9f",
+              "status": "passed",
+              "time": {
+                "start": 1748303918649,
+                "stop": 1748303920816,
+                "duration": 2167
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "cf8e255b829e8de8b1f61186d79bfc9f"
+        },
+        {
+          "name": "11960@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginExitoso()",
+              "uid": "df345610c8faa568",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305185773,
+                "stop": 1748305188066,
+                "duration": 2293
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarTelefono()",
+              "uid": "5ba1f0c8db6ad1e4",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305158658,
+                "stop": 1748305163886,
+                "duration": 5228
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "addb110ef86f21e7",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305167709,
+                "stop": 1748305177224,
+                "duration": 9515
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "78b6e0f057b0e8cf",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305182464,
+                "stop": 1748305184604,
+                "duration": 2140
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "e833937c7ab17eee",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305178424,
+                "stop": 1748305181145,
+                "duration": 2721
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginFallido()",
+              "uid": "53a8cc7eb2c8b774",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305189336,
+                "stop": 1748305191535,
+                "duration": 2199
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarLaptop()",
+              "uid": "b8ddfa355c3afd17",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "broken",
+              "time": {
+                "start": 1748305165359,
+                "stop": 1748305166488,
+                "duration": 1129
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "a163b2e351ed4dd7",
+              "parentUid": "ca9c0cf1ab10fb4a00e7a411933c6b1e",
+              "status": "passed",
+              "time": {
+                "start": 1748305192620,
+                "stop": 1748305199082,
+                "duration": 6462
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "ca9c0cf1ab10fb4a00e7a411933c6b1e"
+        },
+        {
+          "name": "15380@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginFallido()",
+              "uid": "4b10ffe4f13c642f",
+              "parentUid": "8d72243fa2a3e2b18b8792c1d6cf6b17",
+              "status": "passed",
+              "time": {
+                "start": 1748307095571,
+                "stop": 1748307097933,
+                "duration": 2362
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "8d72243fa2a3e2b18b8792c1d6cf6b17"
+        },
+        {
+          "name": "4008@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginExitoso()",
+              "uid": "6d02179db6715dd4",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305579710,
+                "stop": 1748305581940,
+                "duration": 2230
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginFallido()",
+              "uid": "e756b76dc7f94a54",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305583180,
+                "stop": 1748305585296,
+                "duration": 2116
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "ca1c96f7d44bf1b2",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305572287,
+                "stop": 1748305575165,
+                "duration": 2878
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarTelefono()",
+              "uid": "27582009e7e0482",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305548995,
+                "stop": 1748305553936,
+                "duration": 4941
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "5bfd45ac36a59dbf",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305561374,
+                "stop": 1748305571005,
+                "duration": 9631
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "97782b00d542c9ca",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305576341,
+                "stop": 1748305578508,
+                "duration": 2167
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "b10deb2a0cfce533",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "passed",
+              "time": {
+                "start": 1748305586480,
+                "stop": 1748305594755,
+                "duration": 8275
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarLaptop()",
+              "uid": "b26b1752e6a67a8d",
+              "parentUid": "338dc053b37165ee580477ec8faaa8d0",
+              "status": "broken",
+              "time": {
+                "start": 1748305555304,
+                "stop": 1748305560093,
+                "duration": 4789
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "338dc053b37165ee580477ec8faaa8d0"
+        },
+        {
+          "name": "17640@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "77aab6ac9b54f9cf",
+              "parentUid": "1925376d0bbacc6d85767f3eb4bdcda4",
+              "status": "passed",
+              "time": {
+                "start": 1748304785352,
+                "stop": 1748304790506,
+                "duration": 5154
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "1925376d0bbacc6d85767f3eb4bdcda4"
+        },
+        {
+          "name": "17152@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "eb3592ea4a323811",
+              "parentUid": "5fdffecee81f5210c2ae64198bf3af08",
+              "status": "passed",
+              "time": {
+                "start": 1748303795224,
+                "stop": 1748303798025,
+                "duration": 2801
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "5fdffecee81f5210c2ae64198bf3af08"
+        },
+        {
+          "name": "13504@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "bad9e309c08ff088",
+              "parentUid": "98089ae42b3f498c065401937a87ee90",
+              "status": "passed",
+              "time": {
+                "start": 1748303752226,
+                "stop": 1748303761568,
+                "duration": 9342
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "98089ae42b3f498c065401937a87ee90"
+        },
+        {
+          "name": "2484@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "9b31cc07debef769",
+              "parentUid": "63ef986d0b342776173bc2dfaa71a592",
+              "status": "passed",
+              "time": {
+                "start": 1748305376475,
+                "stop": 1748305386320,
+                "duration": 9845
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "63ef986d0b342776173bc2dfaa71a592"
+        },
+        {
+          "name": "16524@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginExitoso()",
+              "uid": "932760ec46a7566a",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306591486,
+                "stop": 1748306593806,
+                "duration": 2320
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarLaptop()",
+              "uid": "c2b86fe615835ceb",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306565679,
+                "stop": 1748306572185,
+                "duration": 6506
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 7,
+              "retriesStatusChange": true,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "7cdebe0ec7e6545a",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306584283,
+                "stop": 1748306586880,
+                "duration": 2597
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 7,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "2f67e81cb5d2656d",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306598463,
+                "stop": 1748306606574,
+                "duration": 8111
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 8,
+              "retriesStatusChange": true,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "d1e916a7fdc5d865",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306573444,
+                "stop": 1748306582998,
+                "duration": 9554
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 13,
+              "retriesStatusChange": true,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "loginFallido()",
+              "uid": "5adfd9a03b4f73e5",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306595043,
+                "stop": 1748306597218,
+                "duration": 2175
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "24c6073c749dca23",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306588104,
+                "stop": 1748306590256,
+                "duration": 2152
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 7,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            },
+            {
+              "name": "comprarTelefono()",
+              "uid": "8aa194fe45df5928",
+              "parentUid": "44215ab79fe66f384bc9cb7a5713dece",
+              "status": "passed",
+              "time": {
+                "start": 1748306557993,
+                "stop": 1748306564318,
+                "duration": 6325
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 16,
+              "retriesStatusChange": true,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "44215ab79fe66f384bc9cb7a5713dece"
+        },
+        {
+          "name": "14920@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "crearCuentaExitosa()",
+              "uid": "db7af23c1be72c6",
+              "parentUid": "eb60b75e062793c092ef30cb9c643422",
+              "status": "passed",
+              "time": {
+                "start": 1748305397473,
+                "stop": 1748305400277,
+                "duration": 2804
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "eb60b75e062793c092ef30cb9c643422"
+        },
+        {
+          "name": "5000@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginExitoso()",
+              "uid": "5511945adb23ca27",
+              "parentUid": "78e9ddf0298e96f6409140cf802d943c",
+              "status": "passed",
+              "time": {
+                "start": 1748307120495,
+                "stop": 1748307122781,
+                "duration": 2286
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 8,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "78e9ddf0298e96f6409140cf802d943c"
+        },
+        {
+          "name": "12696@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "629ef0c762e1cf90",
+              "parentUid": "342cfba0c55662d04bc448a118e27339",
+              "status": "broken",
+              "time": {
+                "start": 1748302713098,
+                "stop": 1748302714978,
+                "duration": 1880
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "342cfba0c55662d04bc448a118e27339"
+        },
+        {
+          "name": "13376@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "d64613ba07d1a05a",
+              "parentUid": "90bfdbfefc28afe10d3653c6913aba78",
+              "status": "broken",
+              "time": {
+                "start": 1748302832588,
+                "stop": 1748302833758,
+                "duration": 1170
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "90bfdbfefc28afe10d3653c6913aba78"
+        },
+        {
+          "name": "13864@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "ffd94d206dc6d043",
+              "parentUid": "60e36e6ddc23a5c4588243717ffeb564",
+              "status": "broken",
+              "time": {
+                "start": 1748303614928,
+                "stop": 1748303616111,
+                "duration": 1183
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "60e36e6ddc23a5c4588243717ffeb564"
+        },
+        {
+          "name": "100@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "1d361fb69df3bf10",
+              "parentUid": "458b17d2decdf5335ba7ef8cb9690f74",
+              "status": "passed",
+              "time": {
+                "start": 1748305410951,
+                "stop": 1748305413182,
+                "duration": 2231
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "458b17d2decdf5335ba7ef8cb9690f74"
+        },
+        {
+          "name": "15500@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "f689ff685bb9fff1",
+              "parentUid": "4fab206f489c570ae7cbeeaeb7add0f9",
+              "status": "passed",
+              "time": {
+                "start": 1748305316995,
+                "stop": 1748305322022,
+                "duration": 5027
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "4fab206f489c570ae7cbeeaeb7add0f9"
+        },
+        {
+          "name": "11504@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginExitoso()",
+              "uid": "77def5fefe2bad78",
+              "parentUid": "23145d699fb35e9148f542a5dca849f1",
+              "status": "passed",
+              "time": {
+                "start": 1748305438325,
+                "stop": 1748305440700,
+                "duration": 2375
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "23145d699fb35e9148f542a5dca849f1"
+        },
+        {
+          "name": "2676@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "91e0828a759fb964",
+              "parentUid": "f1af3c33b2fcf1eb3349070224ea6065",
+              "status": "passed",
+              "time": {
+                "start": 1748302858907,
+                "stop": 1748302863977,
+                "duration": 5070
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "f1af3c33b2fcf1eb3349070224ea6065"
+        },
+        {
+          "name": "13920@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "409b03fcc4257cf3",
+              "parentUid": "639629bd6b8b6ab408960f5e2ad580d8",
+              "status": "passed",
+              "time": {
+                "start": 1748303774573,
+                "stop": 1748303783860,
+                "duration": 9287
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "639629bd6b8b6ab408960f5e2ad580d8"
+        },
+        {
+          "name": "11140@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "8b3022a58b6ae33a",
+              "parentUid": "34db2e94f9791e549a57653c7e54906b",
+              "status": "passed",
+              "time": {
+                "start": 1748304953775,
+                "stop": 1748304959179,
+                "duration": 5404
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "34db2e94f9791e549a57653c7e54906b"
+        },
+        {
+          "name": "8880@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "5ca883e86c738610",
+              "parentUid": "6b7089efcf39bdcf69f3f6b2c6ee3269",
+              "status": "passed",
+              "time": {
+                "start": 1748303154064,
+                "stop": 1748303159285,
+                "duration": 5221
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "6b7089efcf39bdcf69f3f6b2c6ee3269"
+        },
+        {
+          "name": "5708@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginFallido()",
+              "uid": "aa0cc662a63ba074",
+              "parentUid": "f4f01d5b254a08d81cbe1e0a0902e015",
+              "status": "passed",
+              "time": {
+                "start": 1748303846716,
+                "stop": 1748303848997,
+                "duration": 2281
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "f4f01d5b254a08d81cbe1e0a0902e015"
+        },
+        {
+          "name": "13380@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginFallido()",
+              "uid": "b61f72aab2427649",
+              "parentUid": "e87565065461a846bdfb4478dadc1344",
+              "status": "broken",
+              "time": {
+                "start": 1748303824154,
+                "stop": 1748303825391,
+                "duration": 1237
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "e87565065461a846bdfb4478dadc1344"
+        },
+        {
+          "name": "16052@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "1fd68f7f67297577",
+              "parentUid": "901738623da76f9166596ed13a51e18b",
+              "status": "broken",
+              "time": {
+                "start": 1748303634190,
+                "stop": 1748303635373,
+                "duration": 1183
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "901738623da76f9166596ed13a51e18b"
+        },
+        {
+          "name": "10324@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "loginFallido()",
+              "uid": "bac9aa176cc26619",
+              "parentUid": "fd04b37f070f0443e9c55d812561acb3",
+              "status": "passed",
+              "time": {
+                "start": 1748307107009,
+                "stop": 1748307109295,
+                "duration": 2286
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 10,
+              "retriesStatusChange": true,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "fd04b37f070f0443e9c55d812561acb3"
+        },
+        {
+          "name": "13484@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "c8eb6e00134134b7",
+              "parentUid": "04ae599e9c2769a2842e3cc9abd0815a",
+              "status": "passed",
+              "time": {
+                "start": 1748303707182,
+                "stop": 1748303715708,
+                "duration": 8526
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "04ae599e9c2769a2842e3cc9abd0815a"
+        },
+        {
+          "name": "8532@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarLaptop()",
+              "uid": "9d8bc1e761caaa9",
+              "parentUid": "8bf6042705990150a76cf9fa55c4dd3d",
+              "status": "passed",
+              "time": {
+                "start": 1748303598450,
+                "stop": 1748303603398,
+                "duration": 4948
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "8bf6042705990150a76cf9fa55c4dd3d"
+        },
+        {
+          "name": "10160@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "949d5cfefaf49733",
+              "parentUid": "5654a0c4b2e97dadb080a7e9a2e30f0c",
+              "status": "passed",
+              "time": {
+                "start": 1748302816492,
+                "stop": 1748302821355,
+                "duration": 4863
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "5654a0c4b2e97dadb080a7e9a2e30f0c"
+        },
+        {
+          "name": "12412@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "1eb8dca8493f2fea",
+              "parentUid": "60d74029486d8891cd6ee6087758f845",
+              "status": "passed",
+              "time": {
+                "start": 1748305499234,
+                "stop": 1748305505968,
+                "duration": 6734
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "60d74029486d8891cd6ee6087758f845"
+        },
+        {
+          "name": "11744@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "3efd8a62790ee90f",
+              "parentUid": "80308cc998fc621c0b51a87a7085d7b2",
+              "status": "broken",
+              "time": {
+                "start": 1748302757535,
+                "stop": 1748302760318,
+                "duration": 2783
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "80308cc998fc621c0b51a87a7085d7b2"
+        },
+        {
+          "name": "11576@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "c98eb856a3fdeab8",
+              "parentUid": "5e3e66b14e19b0b86a7ab3fd97ee38fe",
+              "status": "broken",
+              "time": {
+                "start": 1748305465902,
+                "stop": 1748305472359,
+                "duration": 6457
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "5e3e66b14e19b0b86a7ab3fd97ee38fe"
+        },
+        {
+          "name": "17600@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "compraMonitorSesion()",
+              "uid": "95cc37c0866effd2",
+              "parentUid": "442068db2d326739ad956afd3008d3fe",
+              "status": "passed",
+              "time": {
+                "start": 1748303863415,
+                "stop": 1748303869926,
+                "duration": 6511
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "442068db2d326739ad956afd3008d3fe"
+        },
+        {
+          "name": "18344@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "839543785f2b3d19",
+              "parentUid": "3dd4e43431696b63f599c77c925889ad",
+              "status": "broken",
+              "time": {
+                "start": 1748303724197,
+                "stop": 1748303729098,
+                "duration": 4901
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "3dd4e43431696b63f599c77c925889ad"
+        },
+        {
+          "name": "11060@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "crearCuentaExistente()",
+              "uid": "263dcc07d2b91a40",
+              "parentUid": "7e48feba23d8270ffd4125c43bed1580",
+              "status": "passed",
+              "time": {
+                "start": 1748303809514,
+                "stop": 1748303811761,
+                "duration": 2247
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "7e48feba23d8270ffd4125c43bed1580"
+        },
+        {
+          "name": "4532@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarTelefono()",
+              "uid": "3badca0cb4874dc4",
+              "parentUid": "d9dacdb80c2ac88d04c7f4c89a67991b",
+              "status": "passed",
+              "time": {
+                "start": 1748302791572,
+                "stop": 1748302798413,
+                "duration": 6841
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "d9dacdb80c2ac88d04c7f4c89a67991b"
+        },
+        {
+          "name": "17416@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarAmbosProductos()",
+              "uid": "f0277a8de41d6ddc",
+              "parentUid": "0fb751d940e522a0ec3f43bd72bcc0ac",
+              "status": "broken",
+              "time": {
+                "start": 1748303664530,
+                "stop": 1748303670020,
+                "duration": 5490
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "0fb751d940e522a0ec3f43bd72bcc0ac"
+        },
+        {
+          "name": "6668@EstuardoRZR.main(3)",
+          "children": [
+            {
+              "name": "comprarLaptop()",
+              "uid": "3ed5a846af8ddfeb",
+              "parentUid": "208516a1f07c5a8c0890c4466ef3dde7",
+              "status": "passed",
+              "time": {
+                "start": 1748305351420,
+                "stop": 1748305356280,
+                "duration": 4860
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "208516a1f07c5a8c0890c4466ef3dde7"
+        }
+      ],
+      "uid": "4c88a20ae60037091580dc8580486c68"
+    }
+  ]
+}

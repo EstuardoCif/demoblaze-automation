@@ -1,0 +1,55 @@
+{
+  "uuid": "546db9e4-e508-466c-9456-1c6ca22a6cea",
+  "historyId": "9955ab1c495fd4eeadc7505a2521e56e",
+  "testCaseId": "[engine:junit-jupiter]/[class:tests.T07_LoginFailed]/[method:loginFallido()]",
+  "testCaseName": "loginFallido()",
+  "fullName": "tests.T07_LoginFailed.loginFallido",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T07_LoginFailed]/[method:loginFallido()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "16524@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T07_LoginFailed"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T07_LoginFailed"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginFallido"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T07_LoginFailed"
+    }
+  ],
+  "links": [],
+  "name": "loginFallido()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1748306595043,
+  "stop": 1748306597218
+}

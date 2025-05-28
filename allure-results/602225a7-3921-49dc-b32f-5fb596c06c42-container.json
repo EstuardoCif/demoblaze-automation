@@ -1,0 +1,11 @@
+{
+  "uuid": "602225a7-3921-49dc-b32f-5fb596c06c42",
+  "name": "comprarAmbosProductos()",
+  "children": [
+    "63dd91ba-47b2-49cb-9ee1-c167e09f0955"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748305167708,
+  "stop": 1748305177224
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "49128471-054d-49e9-b366-4e927be3a6b0",
+  "name": "compraMonitorSesion()",
+  "children": [
+    "3a4081f8-3f3c-493a-9da0-99cdbf7edd63"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1748305465864,
+  "stop": 1748305472442
+}

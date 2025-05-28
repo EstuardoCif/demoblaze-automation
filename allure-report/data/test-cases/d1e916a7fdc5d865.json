@@ -1,0 +1,198 @@
+{
+  "uid": "d1e916a7fdc5d865",
+  "name": "comprarAmbosProductos()",
+  "fullName": "tests.T03_BuyBothProductsWithoutSession.comprarAmbosProductos",
+  "historyId": "8115465f2f89cf991bf364c8589ef9d",
+  "time": {
+    "start": 1748306573444,
+    "stop": 1748306582998,
+    "duration": 9554
+  },
+  "description": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 13,
+  "retriesStatusChange": true,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:tests.T03_BuyBothProductsWithoutSession]/[method:comprarAmbosProductos()]"
+    },
+    {
+      "name": "host",
+      "value": "EstuardoRZR"
+    },
+    {
+      "name": "thread",
+      "value": "16524@EstuardoRZR.main(3)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "tests.T03_BuyBothProductsWithoutSession"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.T03_BuyBothProductsWithoutSession"
+    },
+    {
+      "name": "testMethod",
+      "value": "comprarAmbosProductos"
+    },
+    {
+      "name": "suite",
+      "value": "tests.T03_BuyBothProductsWithoutSession"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "5bfd45ac36a59dbf",
+        "status": "passed",
+        "time": {
+          "start": 1748305561374,
+          "stop": 1748305571005,
+          "duration": 9631
+        }
+      },
+      {
+        "uid": "9b31cc07debef769",
+        "status": "passed",
+        "time": {
+          "start": 1748305376475,
+          "stop": 1748305386320,
+          "duration": 9845
+        }
+      },
+      {
+        "uid": "addb110ef86f21e7",
+        "status": "passed",
+        "time": {
+          "start": 1748305167709,
+          "stop": 1748305177224,
+          "duration": 9515
+        }
+      },
+      {
+        "uid": "b182006c96849474",
+        "status": "passed",
+        "time": {
+          "start": 1748304074607,
+          "stop": 1748304083962,
+          "duration": 9355
+        }
+      },
+      {
+        "uid": "91f7d2036e9ecee3",
+        "status": "passed",
+        "time": {
+          "start": 1748303904144,
+          "stop": 1748303913706,
+          "duration": 9562
+        }
+      },
+      {
+        "uid": "409b03fcc4257cf3",
+        "status": "passed",
+        "time": {
+          "start": 1748303774573,
+          "stop": 1748303783860,
+          "duration": 9287
+        }
+      },
+      {
+        "uid": "bad9e309c08ff088",
+        "status": "passed",
+        "time": {
+          "start": 1748303752226,
+          "stop": 1748303761568,
+          "duration": 9342
+        }
+      },
+      {
+        "uid": "839543785f2b3d19",
+        "status": "broken",
+        "statusDetails": "stale element reference: stale element not found in the current frame\n  (Session info: chrome=132.0.6834.160)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [3c76bb3aa3e55dba010c32515de92105, clickElement {id=f.6CF537D977A7C5450E53E28918401DEE.d.A8AB248E1AB508F4FE01D87B5D8879CE.e.195}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54122}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54122/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (3c76bb3aa3e55dba010c32515de92105)] -> link text: Sony vaio i5]\nSession ID: 3c76bb3aa3e55dba010c32515de92105",
+        "time": {
+          "start": 1748303724197,
+          "stop": 1748303729098,
+          "duration": 4901
+        }
+      },
+      {
+        "uid": "c8eb6e00134134b7",
+        "status": "passed",
+        "time": {
+          "start": 1748303707182,
+          "stop": 1748303715708,
+          "duration": 8526
+        }
+      },
+      {
+        "uid": "f0277a8de41d6ddc",
+        "status": "broken",
+        "statusDetails": "stale element reference: stale element not found in the current frame\n  (Session info: chrome=132.0.6834.160)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [7a15ebea7d5b3ece39a57324884b9c63, clickElement {id=f.67BAD4EDC366C9BAF78BE0F383CDD7B8.d.145095D189DA9109BE75A51998DD36A3.e.187}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54051}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54051/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (7a15ebea7d5b3ece39a57324884b9c63)] -> link text: Sony vaio i5]\nSession ID: 7a15ebea7d5b3ece39a57324884b9c63",
+        "time": {
+          "start": 1748303664530,
+          "stop": 1748303670020,
+          "duration": 5490
+        }
+      },
+      {
+        "uid": "1fd68f7f67297577",
+        "status": "broken",
+        "statusDetails": "stale element reference: stale element not found in the current frame\n  (Session info: chrome=132.0.6834.160)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [a03785859f4329a8c115b4732fbfefc4, clickElement {id=f.6FA7D2C832E5483CBF77C74CC8E5E6A1.d.5C6211D491B158FDF5B955A44AA6727A.e.71}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54018}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54018/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (a03785859f4329a8c115b4732fbfefc4)] -> link text: Samsung galaxy s6]\nSession ID: a03785859f4329a8c115b4732fbfefc4",
+        "time": {
+          "start": 1748303634190,
+          "stop": 1748303635373,
+          "duration": 1183
+        }
+      },
+      {
+        "uid": "ffd94d206dc6d043",
+        "status": "broken",
+        "statusDetails": "stale element reference: stale element not found in the current frame\n  (Session info: chrome=132.0.6834.160)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [c8a07d1402d7ffc2b361753a718a5a58, clickElement {id=f.D36644F409EAE23CE1C16DFC09492FF2.d.B2A2431CDDE8AAEBCFFA7D3E137993D3.e.72}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53990}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53990/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (c8a07d1402d7ffc2b361753a718a5a58)] -> link text: Samsung galaxy s6]\nSession ID: c8a07d1402d7ffc2b361753a718a5a58",
+        "time": {
+          "start": 1748303614928,
+          "stop": 1748303616111,
+          "duration": 1183
+        }
+      },
+      {
+        "uid": "e926a7446223a585",
+        "status": "broken",
+        "statusDetails": "stale element reference: stale element not found in the current frame\n  (Session info: chrome=132.0.6834.160)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception\nBuild info: version: '4.20.0', revision: '866c76ca80'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6b5972334efd49382930ae0d1ed85e7f, clickElement {id=f.9A856F068353E93780655E30FBDDCA5B.d.F74289D431066DB7B50BA41BB57F052D.e.188}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\\Users\\estua\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53683}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53683/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (6b5972334efd49382930ae0d1ed85e7f)] -> link text: Sony vaio i5]\nSession ID: 6b5972334efd49382930ae0d1ed85e7f",
+        "time": {
+          "start": 1748303377323,
+          "stop": 1748303381319,
+          "duration": 3996
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "d1e916a7fdc5d865.json",
+  "parameterValues": []
+}
