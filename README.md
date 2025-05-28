@@ -51,6 +51,7 @@ function runTest {
     # Mostrar resultados Allure aunque haya errores
     allure serve target/allure-results
 }
+```
 
 ### Ejecución de los tests:
 ```bash
